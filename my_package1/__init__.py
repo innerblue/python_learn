@@ -1,0 +1,1 @@
+__all__ = ['a_module']  # 此时使用import *调用这个包内的模块就只能调用a_module
